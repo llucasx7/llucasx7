@@ -1,4 +1,4 @@
-- 👋 Ola meu nome é @llucasx7
+- 👋 Ola meu nome é @nk.lucaz
 - 👍 Meu email de contato é kaua.lucas.santos@escola.pr.gov.br
 - 👀 Eu estou interessado em aprender a programar novas linguagens.
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem de javaScript e Scratch
